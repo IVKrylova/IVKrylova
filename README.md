@@ -20,3 +20,4 @@ I’m frontend developer from Russia, Nizhny Novgorod<br />
 ## My Contacts
 https://t.me/IVKrylova <br />   
 lisenokkrylova@gmail.com
+https://www.linkedin.com/in/ivkrylova/
