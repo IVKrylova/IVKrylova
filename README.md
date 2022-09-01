@@ -9,7 +9,7 @@
 🔥 Ищу команду для совместной работы <br />
 
 ![](https://komarev.com/ghpvc/?username=IVKrylova&color=orange&style=for-the-badge) 
-![](https://www.codewars.com/users/lis_krylova/badges/large)
+<span width="30">![](https://www.codewars.com/users/lis_krylova/badges/micro)</span>
 <br />
 
 ## Technical Stack
