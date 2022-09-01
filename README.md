@@ -26,5 +26,5 @@
 ![](https://img.shields.io/badge/-SCSS-ff69b4?style=for-the-badge)
 
 ## Моя активность
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IVKrylova&theme=default)](https://git.io/streak-stats)<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IVKrylova&theme=default)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IVKrylova&layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
