@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/-SCSS-ff69b4?style=for-the-badge)
+![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ## Моя активность
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IVKrylova&theme=default)](https://git.io/streak-stats)
