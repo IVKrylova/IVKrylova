@@ -26,4 +26,4 @@
 
 ## Моя активность
 [![GitHub Streak](https://streak-stats.demolab.com?user=IVKrylova&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IVKrylova&layout=compact&theme=vision-friendly-default)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
