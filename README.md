@@ -5,7 +5,7 @@
 💪 I like doing interesting and challenging tasks. <br />
 📝 I study algorithms <br />
 <br />
-<br />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivkrylova) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IVKrylova)
 ![](https://img.shields.io/badge/E--mail-ivk.lis%40yandex.ru-orange?style=for-the-badge&logo=appveyo)
