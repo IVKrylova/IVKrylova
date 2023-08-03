@@ -1,10 +1,9 @@
-### Привет всем! 👋 Меня зовут Ирина
-Я - Frontend-разработчик из Нижнего Новгорода <br />
+### Hello everyone! 👋 I`m Irina, Frontend Developer
 
-👩‍💻 Работаю над проектами, меняющими мир к лучшему <br />
-🎯 Изучаю новые технологии <br />
-💪 Люблю выполнять интересные и трудоемкие задачи <br />
-📝 Изучаю алгоритмы <br />
+👩‍💻 I work on projects changing the world for the better <br />
+🎯 I study new technologies <br />
+💪 I like doing interesting and challenging tasks. <br />
+📝 I study algorithms <br />
 <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivkrylova) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IVKrylova)
@@ -17,6 +16,7 @@
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
