@@ -3,15 +3,13 @@
 👩‍💻 I work on projects changing the world for the better <br />
 🎯 I study new technologies <br />
 💪 I like doing interesting and challenging tasks. <br />
-📝 I study algorithms <br />
+📝 I train algorithms and solve problems ![](https://www.codewars.com/users/lis_krylova/badges/micro) <br />
 <br />
 
+## Contacts
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivkrylova) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IVKrylova)
 <a href=mailto:ivk.lis@yandex.ru>![](https://img.shields.io/badge/E--mail-ivk.lis%40yandex.ru-orange?style=for-the-badge&logo=appveyo)</a>
-![](https://img.shields.io/badge/E--mail-ivk.lis%40yandex.ru-orange?style=for-the-badge&logo=appveyo)
-![](https://komarev.com/ghpvc/?username=IVKrylova&color=orange&style=for-the-badge) 
-![](https://www.codewars.com/users/lis_krylova/badges/micro)
 <br />
 
 ## Technologies and tools
@@ -29,5 +27,7 @@
 <br />
 
 ## Activity
+![](https://komarev.com/ghpvc/?username=IVKrylova&color=orange&style=for-the-badge) 
+<br />
 [![GitHub Streak](https://streak-stats.demolab.com?user=IVKrylova&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IVKrylova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
