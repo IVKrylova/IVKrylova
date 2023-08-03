@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=IVKrylova&color=orange&style=for-the-badge) 
 ![](https://www.codewars.com/users/lis_krylova/badges/micro)
 <br />
-<br />
+
 ## Technologies and tools
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
-<br />
+
 ## Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=IVKrylova&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IVKrylova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
