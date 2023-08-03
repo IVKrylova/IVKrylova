@@ -3,7 +3,7 @@
 👩‍💻 I work on projects changing the world for the better <br />
 🎯 I study new technologies <br />
 💪 I like doing interesting and challenging tasks. <br />
-📝 I train algorithms and solve problems ![codewars](https://www.codewars.com/users/lis_krylova/badges/micro) <br />
+📝 I train algorithms and solve problems <image src="https://www.codewars.com/users/lis_krylova/badges/micro" alt="codewars">
 <br />
 
 ## Contacts
