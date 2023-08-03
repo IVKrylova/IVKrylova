@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivkrylova) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IVKrylova)
-[![](<ivk.lis@yandex.ru>)](https://img.shields.io/badge/E--mail-ivk.lis%40yandex.ru-orange?style=for-the-badge&logo=appveyo)
+![<ivk.lis@yandex.ru>](https://img.shields.io/badge/E--mail-ivk.lis%40yandex.ru-orange?style=for-the-badge&logo=appveyo)
 ![](https://komarev.com/ghpvc/?username=IVKrylova&color=orange&style=for-the-badge) 
 ![](https://www.codewars.com/users/lis_krylova/badges/micro)
 <br />
