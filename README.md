@@ -29,7 +29,7 @@
 ## Activity
 ![](https://komarev.com/ghpvc/?username=IVKrylova&color=000000&style=for-the-badge) 
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=IVKrylova&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-henna.vercel.app?user=IVKrylova&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IVKrylova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
