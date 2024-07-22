@@ -22,8 +22,8 @@
 ![](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-SCSS-000000?style=for-the-badge)
-1[](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/axios-000000?&style=for-the-badge&logo=axios&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
 <br />
