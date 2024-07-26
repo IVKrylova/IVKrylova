@@ -34,6 +34,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=IVKrylova&theme=highcontrast)](https://git.io/streak-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IVKrylova&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/IVKrylova)](https://leetcode.com/ivkrylova?ext=heatmap)
 
 ## Languages
 🇷🇺 Native speaker <br />
