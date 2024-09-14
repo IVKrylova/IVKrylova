@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/styled--components-000000?style=for-the-badge&logo=styled-components&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
+![](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=FFD62E)
 <br />
 
 ## Activity
